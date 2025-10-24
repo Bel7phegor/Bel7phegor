@@ -31,7 +31,3 @@
 > "Automation is not about replacing humans — it's about empowering them to build more, faster, and safer." ⚙️
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bel7phegor&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
