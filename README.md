@@ -26,35 +26,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-* 🧩 **[On-premise DevOps Infrastructure Simulation (VMware)](https://github.com/Bel7phegor)**
-  Built a multi-node Kubernetes cluster with NFS shared storage, Helm-based deployments, and GitLab CI/CD integration. Included JFrog Artifactory, Harbor, and Rancher for management.
-
-* 🧪 **[CI/CD Pipeline Implementation](https://github.com/Bel7phegor)**
-  Designed a GitLab-based CI/CD pipeline integrating **Trivy**, **Snyk**, and **Arachni** for automated security scanning. Built and pushed Docker images to Harbor.
-
-* 🌐 **[Enterprise Network Infrastructure Simulation (GNS3)](https://github.com/Bel7phegor)**
-  Configured enterprise-grade networking with pfSense, Ansible automation, and monitoring stack (**Prometheus + Grafana + Teleport Server**).
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bel7phegor&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 💬 Quote
 
 > "Automation is not about replacing humans — it's about empowering them to build more, faster, and safer." ⚙️
