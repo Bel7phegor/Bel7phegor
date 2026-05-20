@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="mailto:nguyenanphuc12032002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;&nbsp;
@@ -34,7 +34,7 @@ I am deeply passionate about building on-premise infrastructure, designing secur
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg" width="1200">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg" width="900">
 </picture>
 
   </div>
@@ -44,6 +44,13 @@ I am deeply passionate about building on-premise infrastructure, designing secur
 
 ### Skills & Tools
 
+#### ☁️ DevOps & Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ansible,docker,terraform,kubernetes,githubactions,aws,linux,prometheus,grafana,bash,python,nginx&theme=dark&perline=12" />
+  </a>
+</p>
+
 #### 🔒 Networking & Security
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-005A8C?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -52,13 +59,6 @@ I am deeply passionate about building on-premise infrastructure, designing secur
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/VPN_IPsec-00BFFF?style=for-the-badge&logo=lock&logoColor=white" />
   <img src="https://img.shields.io/badge/SNMP_Monitoring-000000?style=for-the-badge&logo=target&logoColor=green" />
-</p>
-
-#### ☁️ DevOps & Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,docker,kubernetes,githubactions,aws,linux,prometheus,grafana,bash,python,nginx&theme=dark&perline=11" />
-  </a>
 </p>
 
 ---
@@ -72,11 +72,10 @@ I am deeply passionate about building on-premise infrastructure, designing secur
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight&hide_border=true&height=150" height="150" alt="Top Languages" />&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&height=150" height="150" alt="GitHub Stats" />
+
   <img src="https://streak-stats.demolab.com/?user=Bel7phegor&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
+
+
+
