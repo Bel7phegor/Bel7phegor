@@ -7,9 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nguyenanphuc12032002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Bel7phegor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nguyen-an-phuc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nguyenanphuc12032002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nguyen-an-phuc/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Bel7phegor">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <h2>Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Good Day</h2>
@@ -28,7 +34,7 @@ I am deeply passionate about building on-premise infrastructure, designing secur
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg" width="600">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg" width="1200">
 </picture>
 
   </div>
@@ -59,19 +65,18 @@ I am deeply passionate about building on-premise infrastructure, designing secur
 
 ### 🎯 Professional Focus
 
-- 📈 **Network Monitoring:** Building comprehensive observability stacks using **Prometheus (SNMP Exporter)**, **Loki**, and **Grafana**.
-- 🤖 **Automation:** Leveraging **Ansible** and **Python (Netmiko/Napalm)** to manage enterprise-scale network devices.
-- 🛡️ **Security:** Implementing **Zero Trust Access (Teleport)** and **IDS/IPS (Snort)** to harden infrastructure.
-
----
+- ☁️ **Cloud & Containerization:** Designing highly available (HA) architectures on **AWS** and managing multi-node **Kubernetes** clusters, alongside efficient application containerization using **Docker** and **Helm**.
+- 🤖 **CI/CD & Automation:** Building robust automated integration and deployment pipelines via **GitHub Actions** and **GitLab CI/CD**, leveraging **Ansible** for system configuration and network backup automation.
+- 🛡️ **DevSecOps & Observability:** Enhancing infrastructure security by embedding vulnerability scanners (**Snyk**, **Aqua Trivy**, **OWASP ZAP**) into CI/CD pipelines, and establishing centralized monitoring with **Prometheus**, **Grafana**, and **Alertmanager**.
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bel7phegor&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com/?user=Bel7phegor&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"   />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
