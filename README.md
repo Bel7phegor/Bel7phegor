@@ -1,4 +1,4 @@
-<h1 align="center">I'm Nguyen An Phuc</h1>
+<h1 align="center"><img src="img/yoshi_runq.gif" width="50"/> I'm Nguyen An Phuc <img src="img/mariorun1e.gif" width="50"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,6 +7,7 @@
 </p>
 
 <p align="center"> 
+  <img src="img/thug-mario.png"  width="40"> <img>
   <a href="mailto:nguyenanphuc12032002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;&nbsp;
@@ -18,14 +19,14 @@
   </a>
 </p>
 
-<h2>Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Good Day</h2>
+<h2>Hi there, <img src="img/hello-cat.gif" width="40px"> Good Day</h2>
 
 <div>
   <img src="img/icon_docker_sys.png" alt="DevOps Infrastructure" align="right" width="210">
 
   <div align="left">
 
-I am a final-year student majoring in **Network & Information Security** at Vietnam-Korea University (VKU) with a GPA of 3.2/4.0. I possess a strong foundation in **Linux, containerization, and system automation**. 
+I am a final-year student majoring in **Network & Information Security** at Vietnam-Korea University (VKU). I possess a strong foundation in **Linux, containerization, and system automation**. 
 
 I am deeply passionate about building on-premise infrastructure, designing secure CI/CD pipelines, and transforming traditional networks into **Infrastructure as Code (IaC)**. Currently, I am seeking a **DevOps Intern** position to contribute to building secure, stable systems and develop into a professional DevOps Engineer.
 
@@ -76,6 +77,3 @@ I am deeply passionate about building on-premise infrastructure, designing secur
 
   <img src="https://streak-stats.demolab.com/?user=Bel7phegor&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
-
-
-
