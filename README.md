@@ -18,22 +18,27 @@ I am a final-year student majoring in **Network & Information Security** at Viet
 
 I am deeply passionate about building on-premises infrastructure, designing secure CI/CD pipelines, and transforming traditional networks into **Infrastructure as Code (IaC)**. Currently, I am seeking a **DevOps Intern/Fresher** position to contribute to building secure, stable systems and develop into a professional DevOps Engineer.
 
-<p align="left" style="display: inline"><h3 style="display: inline; margin-right: 15px;">Contact me:</h3>
-  <img src="img/thug-mario.png"  width="40"><img>
-  <a href="mailto:nguyenanphuc12032002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nguyen-an-phuc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Bel7phegor">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<div align="left">
+  <h3 style="display: inline; margin-right: 15px;">Contacts me in:</h3>
+  <span style="display: inline-flex; gap: 12px; flex-wrap: nowrap;">
+    <img src="img/thug-mario.png" width="50">
+    <a href="mailto:nguyenanphuc12032002@gmail.com" style="display:inline-block;padding:7px;border-radius:8px;background:#ffffff;border:1px solid rgba(0,0,0,0.08);box-shadow:0 1px 1px rgba(0,0,0,0.06);">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/nguyen-an-phuc/" style="display:inline-block;padding:7px;border-radius:8px;background:#ffffff;border:1px solid rgba(0,0,0,0.08);box-shadow:0 1px 2px rgba(0,0,0,0.06);">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/Bel7phegor" style="display:inline-block;padding:6px;border-radius:8px;background:#ffffff;border:1px solid rgba(0,0,0,0.08);box-shadow:0 1px 2px rgba(0,0,0,0.06);">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </span>
+</div>
+<br/>
+
   </a>
 </p>
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph-dark.svg">
+color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg" width="900">
 </picture>
