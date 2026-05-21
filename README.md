@@ -20,7 +20,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 <p align="center">
   <h3 style="display:inline; margin:0 16px 0 0; vertical-align:middle;">Contact me:</h3>
-  <span style="display:inline-flex; align-items:center; justify-content:center;">
+  <span style="display:center; align-items:center; justify-content:center;">
     <img src="img/thug-mario.png" width="40" alt="thug mario" style="display:block;" />
   </span>
   <a href="mailto:nguyenanphuc12032002@gmail.com" style="margin:0 8px; display:inline-flex; align-items:center; justify-content:center; padding:4px; background:#ffffff; border-radius:8px;">
