@@ -6,8 +6,20 @@
   </a>
 </p>
 
-<p align="center"> 
-  <img src="img/thug-mario.png"  width="40"> <img>
+
+<h2>Hi there, <img src="img/hello-cat.gif" width="40px"> Good Day</h2>
+
+<div>
+  <img src="img/icon_docker_sys.png" alt="DevOps Infrastructure" align="right" width="220">
+
+  <div align="left">
+
+I am a final-year student majoring in **Network & Information Security** at Vietnam-Korea University (VKU). I possess a strong foundation in **Linux, containerization, and system automation**. 
+
+I am deeply passionate about building on-premises infrastructure, designing secure CI/CD pipelines, and transforming traditional networks into **Infrastructure as Code (IaC)**. Currently, I am seeking a **DevOps Intern/Fresher** position to contribute to building secure, stable systems and develop into a professional DevOps Engineer.
+
+<p align="left"><h3 style="display: inline; margin-right: 15px;">Contact me:</h3>
+  <img src="img/thug-mario.png"  width="40"><img>
   <a href="mailto:nguyenanphuc12032002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;&nbsp;
@@ -18,18 +30,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-<h2>Hi there, <img src="img/hello-cat.gif" width="40px"> Good Day</h2>
-
-<div>
-  <img src="img/icon_docker_sys.png" alt="DevOps Infrastructure" align="right" width="210">
-
-  <div align="left">
-
-I am a final-year student majoring in **Network & Information Security** at Vietnam-Korea University (VKU). I possess a strong foundation in **Linux, containerization, and system automation**. 
-
-I am deeply passionate about building on-premise infrastructure, designing secure CI/CD pipelines, and transforming traditional networks into **Infrastructure as Code (IaC)**. Currently, I am seeking a **DevOps Intern** position to contribute to building secure, stable systems and develop into a professional DevOps Engineer.
-
 <br/>
 
 <picture>
