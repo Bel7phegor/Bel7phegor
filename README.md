@@ -19,7 +19,7 @@ I am a final-year student majoring in **Network & Information Security** at Viet
 I am deeply passionate about building on-premises infrastructure, designing secure CI/CD pipelines, and transforming traditional networks into **Infrastructure as Code (IaC)**. Currently, I am seeking a **DevOps Intern/Fresher** position to contribute to building secure, stable systems and develop into a professional DevOps Engineer.
 
 <p align="center">
-  <strong style="display:inline; margin: 0 16px 0 0; vertical-align:middle; font-size:1.4rem; color:#f8fafc;">Contact me: </strong>
+  <strong style="display:inline; margin: 0 16px 0 0; vertical-align:middle; font-size:1.6rem; color:#f8fafc;">Contact me: </strong>
   <img src="img/thug-mario.png" width="40" alt="thug mario" />&nbsp;
   <a href="mailto:nguyenanphuc12032002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff&borderRadius=12" alt="Gmail" />
