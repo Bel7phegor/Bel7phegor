@@ -20,17 +20,15 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 <p align="center">
   <h3 style="display:inline; margin:0 16px 0 0; vertical-align:middle;">Contact me:</h3>
-  <span style="display:center; align-items:center; justify-content:center;">
-    <img src="img/thug-mario.png" width="40" alt="thug mario" style="display:block;" />
-  </span>
-  <a href="mailto:nguyenanphuc12032002@gmail.com" style="margin:0 8px; display:inline-flex; align-items:center; justify-content:center; padding:4px; background:#ffffff; border-radius:8px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="display:block;" />
-  </a>
-  <a href="https://www.linkedin.com/in/nguyen-an-phuc/" style="margin:0 8px; display:inline-flex; align-items:center; justify-content:center; padding:4px; background:#ffffff; border-radius:8px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display:block;" />
-  </a>
-  <a href="https://github.com/Bel7phegor" style="margin:0 8px; display:inline-flex; align-items:center; justify-content:center; padding:4px; background:#ffffff; border-radius:8px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="display:block;" />
+  <img src="img/thug-mario.png" width="40" alt="thug mario" />&nbsp;
+  <a href="mailto:nguyenanphuc12032002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff&borderRadius=12" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/nguyen-an-phuc/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=ffffff&borderRadius=12" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/Bel7phegor">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderColor=ffffff&borderRadius=12" alt="GitHub" />
   </a>
 </p>
 
