@@ -66,9 +66,10 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 ### 🎯 Professional Focus
 
-- ☁️ **Cloud & Containerization:** Designing highly available (HA) architectures on **AWS** and managing multi-node **Kubernetes** clusters, alongside efficient application containerization using **Docker** and **Helm**.
-- 🤖 **CI/CD & Automation:** Building robust automated integration and deployment pipelines via **GitHub Actions** and **GitLab CI/CD**, leveraging **Ansible** for system configuration and network backup automation.
-- 🛡️ **DevSecOps & Observability:** Enhancing infrastructure security by embedding vulnerability scanners (**Snyk**, **Aqua Trivy**, **OWASP ZAP**) into CI/CD pipelines, and establishing centralized monitoring with **Prometheus**, **Grafana**, and **Alertmanager**.
+- **DevOps & CI/CD:** Architecting highly available systems on **AWS** and managing containerized applications with **Docker** and **Kubernetes**. Building automated, secure CI/CD pipelines via **GitHub Actions** with embedded DevSecOps tools (Trivy, Snyk).
+- **Networking & Security:** Solid foundation in **CCNA** knowledge (TCP/IP, OSI, OSPF, VLAN, NAT). Experienced in configuring and troubleshooting enterprise Routing & Switching infrastructure, firewalls (**pfSense**), and **IPsec VPN** through hands-on labs in **GNS3**.
+- **NetDevOps & Automation:** Transforming traditional network management into Infrastructure as Code (**Terraform IaC**). Leveraging **Ansible** and scripting to automate configurations and critical backups for network switches, routers, and firewalls.
+- **Monitoring & Observability:** Deploying comprehensive full-stack monitoring solutions utilizing **Prometheus**, **Grafana**, and **Alertmanager**. Proficient in tracking health metrics for both Linux servers and networking devices (via SNMP Exporter).
 
 ### 📈 GitHub Stats
 
