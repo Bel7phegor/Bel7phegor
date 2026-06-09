@@ -8,15 +8,17 @@
 
 
 <h2>Hi there, <img src="img/hello-cat.gif" width="40px"> Good Day</h2>
-
 <div>
   <img src="img/icon_docker_sys.png" alt="DevOps Infrastructure" align="right" width="220">
 
-  <div align="left">
+  <div align="justify">
 
 I am a final-year student majoring in **Network & Information Security** at Vietnam-Korea University (VKU). I possess a strong foundation in **Linux, containerization, and system automation**. 
 
 I am deeply passionate about building on-premises infrastructure, designing secure CI/CD pipelines, and transforming traditional networks into **Infrastructure as Code (IaC)**. Currently, I am seeking a **DevOps Intern/Fresher** position to contribute to building secure, stable systems and develop into a professional DevOps Engineer.
+
+  </div>
+</div>
 
 <p align="center">
   <strong style="display:inline; margin: 0 16px 0 0; vertical-align:middle; font-size:1.6rem; color:#f8fafc;">Contact me: </strong>
@@ -54,6 +56,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 #### 🔒 Networking & Security
 <p align="center">
+
   <img src="https://img.shields.io/badge/Cisco-005A8C?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP/IP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/PFSense-EB5E28?style=for-the-badge&logo=pfsense&logoColor=white" />
@@ -65,11 +68,14 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 ---
 
 ### 🎯 Professional Focus
+  <div align="justify">
 
 - **DevOps & CI/CD:** Architecting highly available systems on **AWS** and managing containerized applications with **Docker** and **Kubernetes**. Building automated, secure CI/CD pipelines via **GitHub Actions** with embedded DevSecOps tools (Trivy, Snyk).
 - **Networking & Security:** Solid foundation in **CCNA** knowledge (TCP/IP, OSI, OSPF, VLAN, NAT). Experienced in configuring and troubleshooting enterprise Routing & Switching infrastructure, firewalls (**pfSense**), and **IPsec VPN** through hands-on labs in **GNS3**.
 - **NetDevOps & Automation:** Transforming traditional network management into Infrastructure as Code (**Terraform IaC**). Leveraging **Ansible** and scripting to automate configurations and critical backups for network switches, routers, and firewalls.
 - **Monitoring & Observability:** Deploying comprehensive full-stack monitoring solutions utilizing **Prometheus**, **Grafana**, and **Alertmanager**. Proficient in tracking health metrics for both Linux servers and networking devices (via SNMP Exporter).
+
+  </div>
 
 ### 📈 GitHub Stats
 
