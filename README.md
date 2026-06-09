@@ -1,10 +1,8 @@
 <h1 align="center"><img src="img/yoshi_runq.gif" width="50"/> I'm Nguyen An Phuc <img src="img/mariorun1e.gif" width="50"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="img/typingcat.gif" width="40" align="middle" />&nbsp; &nbsp; &nbsp;  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=false&vCenter=true&width=330&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a> <img src="img/cattype0.gif" width="40" align="middle" />&nbsp;
+</div>
 
 
 <h2>Hi there, <img src="img/hello-cat.gif" width="40px"> Good Day</h2>
@@ -76,8 +74,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 - **Monitoring & Observability:** Deploying comprehensive full-stack monitoring solutions utilizing **Prometheus**, **Grafana**, and **Alertmanager**. Proficient in tracking health metrics for both Linux servers and networking devices (via SNMP Exporter).
 
   </div>
-
-### 📈 GitHub Stats
+###  <img src="img/stonks.png" width="25px"> GitHub Stats <img src="img/stock_up.gif" width="25px">
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight&hide_border=true&height=150" height="150" alt="Top Languages" />&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&height=150" height="150" alt="GitHub Stats" />
