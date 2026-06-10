@@ -1,9 +1,8 @@
 <div align="center">
   <img src="img/yoshi_run.gif" width="50" align="bottom" />
-  <img src="img/I’m Nguyen An Phuc (3)-Photoroom.png" height="50" align="bottom" />
+  <img src="img/I’m Nguyen An Phuc.png" height="60" align="bottom" />
   <img src="img/mariorun1e.gif" width="50" align="bottom" />
-  <br>
-  <img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25">
+  <br><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30">
 </div>
 
 
@@ -49,7 +48,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 ---
 
-### <img src="img/mario_star.gif" width="25" style="vertical-align: left; margin-right: 10px; " /> Skills & Tools
+### <img src="img/mario_star.gif" width="30" style="vertical-align: left; margin-right: 10px; " /> Skills & Tools
 
 #### DevOps & Cloud
 <p align="center">
@@ -70,7 +69,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 ---
 
-### <img src="img/mario_star.gif" width="25" style="vertical-align: left; margin-right: 10px; " />Professional Focus
+### <img src="img/mario_star.gif" width="30" style="vertical-align: left; margin-right: 10px; " />Professional Focus
   <div align="justify">
 
 - **DevOps & CI/CD:** Architecting highly available systems on **AWS** and managing containerized applications with **Docker** and **Kubernetes**. Building automated, secure CI/CD pipelines via **GitHub Actions** with embedded DevSecOps tools (Trivy, Snyk).
