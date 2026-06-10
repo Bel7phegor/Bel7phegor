@@ -1,10 +1,11 @@
 <div align="center">
   <img src="img/yoshi_run.gif" width="50" align="bottom" />
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=380&lines=I'm+Nguyen+An+Phuc" align="bottom" />
+  <img src="img/I’m Nguyen An Phuc (3)-Photoroom.png" height="50" align="bottom" />
   <img src="img/mariorun1e.gif" width="50" align="bottom" />
   <br>
   <img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25"><img src="img/mario_block_rv.gif" width="25">
 </div>
+
 
 <div align="center">
   <img src="img/bowser.gif" width="40" align="middle" />&nbsp; &nbsp; &nbsp;  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=false&vCenter=true&width=330&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a><img src="img/813316-marionarutorun.gif" width="40" align="middle" />
