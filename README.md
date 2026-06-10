@@ -6,11 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="img/bowser-ezgif.com-rotate.gif" width="45" align="middle" />&nbsp;&nbsp;
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00BFFF&center=false&vCenter=true&width=335&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" />
-  </a>&nbsp;&nbsp;
-  <img src="img/813316-marionarutorun-ezgif.com-rotate.gif" width="40" align="middle" />
+  <img src="img/bowser-ezgif.com-rotate.gif" width="45" align="middle" />&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=335&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a>&nbsp;&nbsp;<img src="img/813316-marionarutorun-ezgif.com-rotate.gif" width="40" align="middle" />
 </div>
 
 
