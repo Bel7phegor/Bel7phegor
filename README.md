@@ -5,9 +5,8 @@
   <br><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30">
 </div>
 
-
 <div align="center">
-  <img src="img/bowser.gif" width="40" align="middle" />&nbsp; &nbsp; &nbsp;  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=false&vCenter=true&width=330&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a><img src="img/813316-marionarutorun.gif" width="40" align="middle" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00BFFF&center=false&vCenter=true&width=335&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a>
 </div>
 
 
@@ -23,30 +22,28 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
   </div>
 </div>
-
-<div align="center" style="font-size: 1.5em; font-weight: bold; line-height: 1.5; margin-bottom: 12px;">Contact me:
-  <img src="img/thug-mario.png" width="40" alt="thug mario" />&nbsp;
+<div align="center">
+  <font size="5"><b>Contact me:</b></font>
+  <img src="img/thug-mario.png" width="40" alt="thug mario" align="middle" />&nbsp;
   <a href="mailto:nguyenanphuc12032002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff&borderRadius=12" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff&borderRadius=12" alt="Gmail" align="middle" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/nguyen-an-phuc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=ffffff&borderRadius=12" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=ffffff&borderRadius=12" alt="LinkedIn" align="middle" />
   </a>&nbsp;
   <a href="https://github.com/Bel7phegor">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderColor=ffffff&borderRadius=12" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderColor=ffffff&borderRadius=12" alt="GitHub" align="middle" />
   </a>
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg" width="900">
 </picture>
 
-  </div>
+<div align="center">
+  <img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16">
 </div>
-
----
 
 ### <img src="img/mario_star.gif" width="30" style="vertical-align: left; margin-right: 10px; " /> Skills & Tools
 
@@ -67,7 +64,10 @@ I am deeply passionate about building on-premises infrastructure, designing secu
   <img src="https://img.shields.io/badge/SNMP_Monitoring-000000?style=for-the-badge&logo=target&logoColor=green" />
 </p>
 
----
+
+<div align="center">
+  <img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16">
+</div>
 
 ### <img src="img/mario_star.gif" width="30" style="vertical-align: left; margin-right: 10px; " />Professional Focus
   <div align="justify">
@@ -78,10 +78,19 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 - **Monitoring & Observability:** Deploying comprehensive full-stack monitoring solutions utilizing **Prometheus**, **Grafana**, and **Alertmanager**. Proficient in tracking health metrics for both Linux servers and networking devices (via SNMP Exporter).
 
   </div>
-###   GitHub Stats <img src="img/stonks.png" width="25px"><img src="img/stock_up.gif" width="29px">
+
+
+<div align="center">
+  <img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16">
+</div>
+
+### <img src="img/mario_star.gif" width="30" style="vertical-align: left; margin-right: 10px; " />GitHub Stats <img src="img/stonks.png" width="25px"><img src="img/stock_up.gif" width="25px">
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight&hide_border=true&height=150" height="150" alt="Top Languages" />&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&height=150" height="150" alt="GitHub Stats" />
 
   <img src="https://streak-stats.demolab.com/?user=Bel7phegor&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16">
 </div>
