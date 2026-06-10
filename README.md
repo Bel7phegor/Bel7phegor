@@ -6,7 +6,11 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00BFFF&center=false&vCenter=true&width=335&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a>
+  <img src="img/bowser-ezgif.com-rotate.gif" width="45" align="middle" />&nbsp;&nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00BFFF&center=false&vCenter=true&width=335&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" />
+  </a>&nbsp;&nbsp;
+  <img src="img/813316-marionarutorun-ezgif.com-rotate.gif" width="40" align="middle" />
 </div>
 
 
@@ -90,7 +94,4 @@ I am deeply passionate about building on-premises infrastructure, designing secu
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight&hide_border=true&height=150" height="150" alt="Top Languages" />&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&height=150" height="150" alt="GitHub Stats" />
 
   <img src="https://streak-stats.demolab.com/?user=Bel7phegor&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16"><img src="img/mario_block_rv.gif" width="16">
 </div>
