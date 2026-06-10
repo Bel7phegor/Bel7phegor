@@ -1,7 +1,13 @@
-<h1 align="center"><img src="img/yoshi_runq.gif" width="50"/> I'm Nguyen An Phuc <img src="img/mariorun1e.gif" width="50"></h1>
+<div align="center" style="font-size: 2em; font-weight: bold; line-height: 1.5; margin-bottom: 12px;">
+  <img src="img/yoshi_run.gif" width="100" style="vertical-align: bottom; margin-bottom: -9px;margin-right: 20px" /> 
+  I'm Nguyen An Phuc 
+  <img src="img/mariorun1e.gif" width="50" style="vertical-align: bottom; margin-bottom: -9px; margin-left: 10px" />
+  <br>
+  <img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);" src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20"><img style="transform: scaleX(-1);"src="img/mario_block.gif" width="20">
+</div>
 
 <div align="center">
-  <img src="img/typingcat.gif" width="40" align="middle" />&nbsp; &nbsp; &nbsp;  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=false&vCenter=true&width=330&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a> <img src="img/cattype0.gif" width="40" align="middle" />&nbsp;
+  <img src="img/bowser.gif" width="40" align="middle" />&nbsp; &nbsp; &nbsp;  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=false&vCenter=true&width=330&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a><img src="img/813316-marionarutorun.gif" width="40" align="middle" />
 </div>
 
 
@@ -18,8 +24,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
   </div>
 </div>
 
-<p align="center">
-  <strong style="display:inline; margin: 0 16px 0 0; vertical-align:middle; font-size:1.6rem; color:#f8fafc;">Contact me: </strong>
+<div align="center" style="font-size: 1.5em; font-weight: bold; line-height: 1.5; margin-bottom: 12px;">Contact me:
   <img src="img/thug-mario.png" width="40" alt="thug mario" />&nbsp;
   <a href="mailto:nguyenanphuc12032002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff&borderRadius=12" alt="Gmail" />
@@ -30,7 +35,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
   <a href="https://github.com/Bel7phegor">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderColor=ffffff&borderRadius=12" alt="GitHub" />
   </a>
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph-dark.svg">
@@ -43,7 +48,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 ---
 
-### Skills & Tools
+### <img src="img/mario_star.gif" width="25" style="vertical-align: left; margin-right: 10px; " /> Skills & Tools
 
 #### DevOps & Cloud
 <p align="center">
@@ -64,7 +69,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 ---
 
-### Professional Focus
+### <img src="img/mario_star.gif" width="25" style="vertical-align: left; margin-right: 10px; " />Professional Focus
   <div align="justify">
 
 - **DevOps & CI/CD:** Architecting highly available systems on **AWS** and managing containerized applications with **Docker** and **Kubernetes**. Building automated, secure CI/CD pipelines via **GitHub Actions** with embedded DevSecOps tools (Trivy, Snyk).

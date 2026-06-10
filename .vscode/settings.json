@@ -3,5 +3,6 @@
     "Alertmanager",
     "CCNA",
     "OSPF"
-  ]
+  ],
+  "markdown.validate.enabled": true
 }
