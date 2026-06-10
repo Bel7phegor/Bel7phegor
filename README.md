@@ -1,9 +1,9 @@
 <div align="center">
   <img src="img/yoshi_run.gif" width="90" align="bottom" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/I’m Nguyen An Phuc.png">
-    <source media="(prefers-color-scheme: light)" srcset="img/I’m Nguyen An Phuc_dark.png">
-    <img src="img/I’m Nguyen An Phuc.png" height="60" align="bottom" />
+    <source media="(prefers-color-scheme: dark)" srcset="img/I’m Nguyen An Phuc.png" align="bottom">
+    <source media="(prefers-color-scheme: light)" srcset="img/I’m Nguyen An Phuc_dark.png" align="bottom">
+    <img src="img/I’m Nguyen An Phuc.png" height="60" align="bottom" alt="Nguyen An Phuc" />
   </picture>
   <img src="img/mariorun1e.gif" width="50" align="bottom" />
   <br><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30"><img src="img/mario_block_rv.gif" width="30">
