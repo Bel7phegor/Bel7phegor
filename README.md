@@ -22,19 +22,11 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
   </div>
 </div>
+
 <div align="center">
-  <font size="5"><b>Contact me:</b></font>
-  <img src="img/thug-mario.png" width="40" alt="thug mario" align="middle" />&nbsp;
-  <a href="mailto:nguyenanphuc12032002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff&borderRadius=12" alt="Gmail" align="middle" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/nguyen-an-phuc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=ffffff&borderRadius=12" alt="LinkedIn" align="middle" />
-  </a>&nbsp;
-  <a href="https://github.com/Bel7phegor">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderColor=ffffff&borderRadius=12" alt="GitHub" align="middle" />
-  </a>
+  <font size="5"><b>Contact me: </b></font>&nbsp;<img src="img/thug-mario.png" width="40" alt="thug mario" align="bottom" />&nbsp;&nbsp;<a href="mailto:nguyenanphuc12032002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff&borderRadius=12" alt="Gmail" align="bottom" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nguyen-an-phuc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=ffffff&borderRadius=12" alt="LinkedIn" align="bottom" /></a>&nbsp;&nbsp;<a href="https://github.com/Bel7phegor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderColor=ffffff&borderRadius=12" alt="GitHub" align="bottom" /></a>
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bel7phegor/Bel7phegor/output/pacman-contribution-graph.svg">
