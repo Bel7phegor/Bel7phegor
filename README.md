@@ -45,16 +45,15 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 ### Skills & Tools
 
-#### ☁️ DevOps & Cloud
+#### DevOps & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ansible,docker,terraform,kubernetes,githubactions,aws,linux,prometheus,grafana,bash,python,nginx&theme=dark&perline=12" />
   </a>
 </p>
 
-#### 🔒 Networking & Security
+#### Networking & Security
 <p align="center">
-
   <img src="https://img.shields.io/badge/Cisco-005A8C?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP/IP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/PFSense-EB5E28?style=for-the-badge&logo=pfsense&logoColor=white" />
@@ -65,7 +64,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 
 ---
 
-### 🎯 Professional Focus
+### Professional Focus
   <div align="justify">
 
 - **DevOps & CI/CD:** Architecting highly available systems on **AWS** and managing containerized applications with **Docker** and **Kubernetes**. Building automated, secure CI/CD pipelines via **GitHub Actions** with embedded DevSecOps tools (Trivy, Snyk).
@@ -74,7 +73,7 @@ I am deeply passionate about building on-premises infrastructure, designing secu
 - **Monitoring & Observability:** Deploying comprehensive full-stack monitoring solutions utilizing **Prometheus**, **Grafana**, and **Alertmanager**. Proficient in tracking health metrics for both Linux servers and networking devices (via SNMP Exporter).
 
   </div>
-###  <img src="img/stonks.png" width="25px"> GitHub Stats <img src="img/stock_up.gif" width="25px">
+###   GitHub Stats <img src="img/stonks.png" width="25px"><img src="img/stock_up.gif" width="29px">
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bel7phegor&layout=compact&theme=tokyonight&hide_border=true&height=150" height="150" alt="Top Languages" />&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bel7phegor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&height=150" height="150" alt="GitHub Stats" />
