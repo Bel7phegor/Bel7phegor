@@ -1,5 +1,5 @@
 <div align="center">
-  <sub><img src="img/kirby_umbrella.gif" width="120"/></sub>
+  <sub><img src="img/18871-lugia.gif" width=""/></sub>
 </div>
 <div align="center">
   <img src="img/yoshi_run.gif" width="90" align="bottom" />
