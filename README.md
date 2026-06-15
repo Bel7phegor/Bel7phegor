@@ -6,12 +6,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/title_light.png">
     <source media="(prefers-color-scheme: light)" srcset="img/title_dark.png">
-    <img src="img/title_light.png" height="60" align="bottom" />
+    <img src="img/title_light.png" height="60 " align="bottom" />
   </picture>  
-  <img src="img/mariorun1e.gif" width="50"/>
+  <img src="img/mariorun1e.gif" width="90"/>
   <br><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30"><img src="img/mario_block_rv-ezgif.com-speed.gif" width="30">
 </div>
-
 <div align="center">
   <img src="img/bowser (1).gif" width="35" align="middle" />&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=335&lines=Fresher+DevOps+Engineer;Network+Security;Infrastructure+as+Code;Network+Automation" alt="Typing SVG" align="middle" /></a>&nbsp;&nbsp;<img src="img/813316-marionarutorun-ezgif.com-rotate.gif" width="40" align="middle" />
 </div>
@@ -23,7 +22,7 @@
 
   <div align="justify">
 
-I am a final-year student majoring in **Network & Information Security** at Vietnam-Korea University (VKU). I possess a strong foundation in **Linux, containerization, and system automation**. 
+I am a final-year student majoring in **Network & Information Security** at Vietnam – Korea University of Information and Communications Technology **(VKU)**. I possess a strong foundation in **Linux, containerization, and system automation**. 
 
 I am deeply passionate about building on-premises infrastructure, designing secure CI/CD pipelines, and transforming traditional networks into **Infrastructure as Code (IaC)**. Currently, I am seeking a **DevOps Intern/Fresher** position to contribute to building secure, stable systems and develop into a professional DevOps Engineer.
 
